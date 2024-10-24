@@ -5,3 +5,7 @@
     font-family: Kite;
     src: url(../fonts/KiteOne-Regular.ttf);
 }
+
+.bg-red{
+    background-color: rgba(97, 4, 4, 1);
+}
