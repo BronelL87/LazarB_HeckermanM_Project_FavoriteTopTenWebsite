@@ -12,6 +12,6 @@
 
 ### Peer Review
 
-**Reviewer**: 
+**Reviewer**: Brock Spacek
 
-**Reviewer Notes**: 
+**Reviewer Notes**: I love the navbar custom image that was made as well as the Home Page image was sick. Everything works well as intended for functionality. The only thing that seemed to mess up is that the text for each top 10 card overlaps some of the videos and images and looks really off. It might just be my computer but I did it for the Ipad Air and some things just overlapped and made it unreadable. Everything else functioned and looked great!
