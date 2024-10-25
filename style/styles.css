@@ -11,12 +11,27 @@ body{
     color: white;
     font-size: 30px;
 }
+.main-page-text{
+    font-family: Kite;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
 
 .text-style{
     color: white;
     font-family: Kite;
     font-size: 25px;
     text-align: center;
+}
+.button-style{
+    color: white;
+    font-family: Kite;
+    font-size: 25px;
+    text-align: center;
+    -webkit-text-stroke: 0.7px black;
+    background-color: #524646;
+    border: 0px;
 }
 
 @font-face {
