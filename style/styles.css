@@ -1,5 +1,6 @@
 body{
     background-color: #272727;
+    overflow-x: hidden;
 }
 
 .card-bg{
@@ -27,7 +28,7 @@ body{
 .button-style{
     color: white;
     font-family: Kite;
-    font-size: 25px;
+    font-size: 33px;
     text-align: center;
     -webkit-text-stroke: 0.7px black;
     background-color: #524646;
