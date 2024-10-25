@@ -28,3 +28,8 @@ body{
     background-color: rgba(97, 4, 4, 1);
 }
 
+/* @media screen and (max-width: 820px) {
+    .card-video{
+        columns: 12;
+    }
+} */
