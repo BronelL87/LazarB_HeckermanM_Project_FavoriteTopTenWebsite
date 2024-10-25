@@ -12,6 +12,11 @@ body{
     color: white;
     font-size: 30px;
 }
+.page-title{
+    font-family: Kite;
+    color: white;
+    font-size: 30px;
+}
 .main-page-text{
     font-family: Kite;
     color: white;
@@ -82,5 +87,8 @@ body{
         max-width: 600px;
         height: 315px; 
         margin: auto; 
+    }
+    .text-style{
+        font-size: 17px;
     }
 }
